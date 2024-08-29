@@ -1,0 +1,13 @@
+.content {
+    background-color: gray;
+    margin: 100px;
+    padding: 100px;
+}
+.bubble{
+    background-color: white;
+    color: green;
+}
+.bubbleLogin{
+    background-color: white;
+    color:blue;
+}

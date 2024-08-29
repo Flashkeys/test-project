@@ -1,0 +1,40 @@
+{
+    "Messages": [{
+            "id": 1,
+            "name": "Jhon",
+            "time": "12.31",
+            "content": {
+                "icon": "Profile",
+                "text": "Welcome to the page!"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "time": "12.43",
+            "content": {
+                "icon": "Profile",
+                "text": "Thanks man Im new"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Simon",
+            "time": "12.48",
+            "content": {
+                "icon": "Profile",
+                "text": "Hello everyone how has your day been!. Ive had a crazy morning and can finally relax."
+            }
+        },
+        {
+            "id": 4,
+            "name": "Chloe",
+            "time": "12.52",
+            "content": {
+                "icon": "Profile",
+                "text": "What happend this morning?"
+            }
+        }
+
+    ]
+}
